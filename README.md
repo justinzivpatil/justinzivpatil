@@ -17,15 +17,13 @@
 - **Wheat Disease Detection & Yield Prediction**: CNN-powered disease diagnosis, KNN-based yield estimation, and weather forecasting with Google API.
 - **Internship Prediction Model**: Data scraped from over 2,000 companies using Selenium, with Random Forest and LSTM models predicting company selection and stipend amounts.
 
-☁️** Cloud & CI/CD:**
+☁️** **Cloud /CI/CD:****
+** **Cloud Deployment and Management:**** Successfully deployed scalable applications on AWS, leveraging EC2 instances for computing, S3 for storage, and RDS for database management. Configured load balancers to ensure high availability and resilience, and implemented IAM services for secure access control and management of user permissions across the cloud infrastructure.
+   ** **Data Processing and Storage:**** Built automated ETL pipelines using AWS Lambda and Redshift, enabling efficient data processing, transformation, and storage for large datasets. Integrated cloud-based data warehousing to support real-time analytics and data retrieval.
 
-    **Cloud Deployment and Management:** Successfully deployed scalable applications on AWS, leveraging EC2 instances for computing, S3 for storage, and RDS for database management. Configured load balancers to ensure high availability and resilience, and implemented IAM services for secure access control and management of user permissions across the cloud infrastructure.
+   ** **CI/CD Pipeline Automation:**** Developed and maintained continuous integration and continuous deployment (CI/CD) pipelines using Jenkins, enabling automated testing, build, and deployment processes. Integrated Prometheus for real-time monitoring and Grafana for visualization, providing actionable insights into system performance and reliability across cloud environments.
 
-   ** Data Processing and Storage:** Built automated ETL pipelines using AWS Lambda and Redshift, enabling efficient data processing, transformation, and storage for large datasets. Integrated cloud-based data warehousing to support real-time analytics and data retrieval.
-
-    **CI/CD Pipeline Automation:** Developed and maintained continuous integration and continuous deployment (CI/CD) pipelines using Jenkins, enabling automated testing, build, and deployment processes. Integrated Prometheus for real-time monitoring and Grafana for visualization, providing actionable insights into system performance and reliability across cloud environments.
-
-    **System Monitoring and Optimization:** Utilized AWS CloudWatch and Prometheus to monitor application health, resource utilization, and performance metrics in real-time. Leveraged Grafana dashboards to visualize key performance indicators, facilitating proactive troubleshooting and optimization of cloud resources.
+   ** **System Monitoring and Optimization:**** Utilized AWS CloudWatch and Prometheus to monitor application health, resource utilization, and performance metrics in real-time. Leveraged Grafana dashboards to visualize key performance indicators, facilitating proactive troubleshooting and optimization of cloud resources.
 
 💼 **Business Management**:
 - Experience managing a clothing shop, where I developed strong skills in customer engagement, financial management, and sales strategy, which I now apply to IT project management and customer-centric roles.
