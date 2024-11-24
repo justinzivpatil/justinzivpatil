@@ -1,4 +1,4 @@
-**Full Stack Developer | Data Analyst | Machine Learning Enthusiast**
+**Cloud Data Engineer | Data Analyst | Machine Learning Enthusiast**
 
 🎓 **Master of Computer Applications** at CHRIST University, Bengaluru | **BSc in Physics, Mathematics, Electronics** from St. Joseph's College, Bengaluru.
 
@@ -8,7 +8,7 @@
 - **Programming Languages**: Python, Java, C
 - **Frameworks & Libraries**: Flask, Django, TensorFlow, PySpark, Pandas, Numpy, Scikit-learn, Keras
 - **Data Analytics & Machine Learning**: Text Analysis, Topic Modeling, Forecasting, ARIMA, LDA, SVM, Random Forest
-- **Cloud & DevOps**: AWS (EC2, IAM), Google Cloud Console, Jenkins, Prometheus, Grafana, Docker
+- **Cloud & DevOps**: Azure,Databricks,AWS (EC2, IAM), Google Cloud Console, Jenkins, Prometheus, Grafana, Docker,Microsoft Fabric
 - **Tools**: MySQL, Tableau, Power BI, GitHub, GitLab
 
 🚀 **Projects**:
